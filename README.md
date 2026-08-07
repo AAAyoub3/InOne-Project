@@ -41,7 +41,7 @@ We built InOne from the ground up using Flutter & Dart (for the mobile app), Rea
 
 ## Demo Link
 
-[▶ View Demo on Google Drive]([https://drive.google.com/drive/folders/19KY2GBHM4FotL8kH9WMuNkB30C2jSy32?usp=sharing](https://drive.google.com/file/d/1cgBOZXv71dgF4zAjykcq3sz82avX8HOZ/view?usp=sharing))
+[▶ View Demo on Google Drive](https://drive.google.com/file/d/1cgBOZXv71dgF4zAjykcq3sz82avX8HOZ/view?usp=sharing)
 
 ---
 
