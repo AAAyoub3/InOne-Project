@@ -10,6 +10,12 @@ In today’s world, people often rely on bloggers and influencers for reviews, b
 
 ---
 
+## 🖼️ Application Preview
+
+<img width="5178" height="3611" alt="inone" src="https://github.com/user-attachments/assets/e89762d6-821f-4391-b0f8-5affb5d13759" />
+
+---
+
 ## Features
 
 * **Cross-Platform Support**: Mobile application and a web platform.
